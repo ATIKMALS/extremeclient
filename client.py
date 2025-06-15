@@ -1,3 +1,5 @@
+__version__ = "1.0.0"   # <-- এই লাইনটা ফাইলের শুরুতে বসাও
+
 import ctypes
 import sys
 
