@@ -1,0 +1,276 @@
+# 🛡️ Awesome Hacking Tools & Resources (Ethical & Educational)
+
+Collected by: Atik Mals  
+Purpose: For learning cybersecurity, ethical hacking, red teaming, and OSINT.
+
+---
+
+## 📁 Reconnaissance Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Amass** | Subdomain enumeration | https://github.com/owasp-amass/amass |
+| **theHarvester** | Email, domain, and employee harvesting | https://github.com/laramies/theHarvester |
+| **Shodan CLI** | Search internet-connected devices | https://github.com/achillean/shodan-python |
+| **Recon-ng** | Full-featured web recon framework | https://github.com/lanmaster53/recon-ng |
+
+---
+
+## 🧪 Vulnerability Scanners
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Nmap** | Network scanner | https://github.com/nmap/nmap |
+| **Nikto** | Web server scanner | https://github.com/sullo/nikto |
+| **Nuclei** | Fast vulnerability scanner | https://github.com/projectdiscovery/nuclei |
+| **XSStrike** | Advanced XSS detection tool | https://github.com/s0md3v/XSStrike |
+
+---
+
+## 🛠️ Exploitation Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Metasploit Framework** | Most used exploitation tool | https://github.com/rapid7/metasploit-framework |
+| **SQLmap** | Automated SQL injection | https://github.com/sqlmapproject/sqlmap |
+| **Commix** | Automated command injection | https://github.com/commixproject/commix |
+| **BeEF** | Browser exploitation framework | https://github.com/beefproject/beef |
+
+---
+
+## 🎯 Privilege Escalation
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **WinPEAS / LinPEAS** | Windows/Linux privilege enum | https://github.com/carlospolop/PEASS-ng |
+| **Watson** | Windows privilege escalation | https://github.com/rasta-mouse/Watson |
+| **Linux Exploit Suggester** | Suggests Linux exploits | https://github.com/mzet-/linux-exploit-suggester |
+
+---
+
+## 🧰 Post-Exploitation Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Empire** | PowerShell post-exploitation agent | https://github.com/BC-SECURITY/Empire |
+| **Pupy** | Remote Access Tool in Python | https://github.com/n1nj4sec/pupy |
+| **Sliver** | C2 framework by BishopFox | https://github.com/BishopFox/sliver |
+
+---
+
+## 👁️ Information Gathering (OSINT)
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Photon** | Web crawler for OSINT | https://github.com/s0md3v/Photon |
+| **Sherlock** | Social media username checker | https://github.com/sherlock-project/sherlock |
+| **Email2phonenumber** | Try to find number from email | https://github.com/martinvigo/email2phonenumber |
+| **Maltego CE** | Visual OSINT tool | https://www.maltego.com/ (not GitHub) |
+
+---
+
+## 🔐 Wireless & Network Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Aircrack-ng** | WiFi cracking | https://github.com/aircrack-ng/aircrack-ng |
+| **Bettercap** | MITM framework | https://github.com/bettercap/bettercap |
+| **Wireshark** | Packet analysis (GUI) | https://github.com/wireshark/wireshark |
+
+---
+
+## 🔓 Password Attacks
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Hashcat** | GPU password cracker | https://github.com/hashcat/hashcat |
+| **JohnTheRipper** | Classic password cracker | https://github.com/openwall/john |
+| **Hydra** | Network brute-force | https://github.com/vanhauser-thc/thc-hydra |
+
+---
+
+## 🎮 Game Hacking Tools (Educational)
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Cheat Engine** | Memory scanner & editor | https://github.com/cheat-engine/cheat-engine |
+| **Aimbot Template** | C++ / Python sample bots | Search "aimbot memory hack" |
+| **ReadWriteMemory** | Python library for memory editing | https://github.com/learn-more/python-ptrace |
+
+---
+
+## 📦 Payload Collections
+
+| Name | Description | GitHub |
+|------|-------------|--------|
+| **PayloadsAllTheThings** | Big list of payloads | https://github.com/swisskyrepo/PayloadsAllTheThings |
+| **FuzzySecurity** | Exploit development blog/tools | https://github.com/FuzzySecurity |
+| **Red Team Attack Simulation** | Red team scripts | https://github.com/AlexisAhmed/Red-Teaming-Toolkit |
+
+---
+
+## 💬 Discord / Web Control
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Discord RATs (educational only)** | Remote access via Discord | Search: `discord remote tool` |
+| **Webhook-based Logger** | Python webhook loggers | Search: `discord webhook python logger` |
+
+---
+
+## 📚 Learning Platforms
+
+| Platform | Link |
+|----------|------|
+| HackTheBox | https://hackthebox.com |
+| TryHackMe | https://tryhackme.com |
+| PortSwigger Web Academy | https://portswigger.net/web-security |
+| OverTheWire | https://overthewire.org/wargames/ |
+| CTFTime | https://ctftime.org |
+
+---
+
+> ⚠️ All tools are for **educational and ethical** hacking only.  
+> Run inside **VirtualBox/Kali Linux** for safety.  
+> Do **not use** against any system without **permission**.
+
+---
+
+# 🛡️ Awesome Hacking Tools & Resources (Ethical & Educational)
+
+Collected by: Atik Mals  
+Purpose: For learning cybersecurity, ethical hacking, red teaming, and OSINT.
+
+---
+
+## 📁 Reconnaissance Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Amass** | Subdomain enumeration | https://github.com/owasp-amass/amass |
+| **theHarvester** | Email, domain, and employee harvesting | https://github.com/laramies/theHarvester |
+| **Shodan CLI** | Search internet-connected devices | https://github.com/achillean/shodan-python |
+| **Recon-ng** | Full-featured web recon framework | https://github.com/lanmaster53/recon-ng |
+
+---
+
+## 🧪 Vulnerability Scanners
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Nmap** | Network scanner | https://github.com/nmap/nmap |
+| **Nikto** | Web server scanner | https://github.com/sullo/nikto |
+| **Nuclei** | Fast vulnerability scanner | https://github.com/projectdiscovery/nuclei |
+| **XSStrike** | Advanced XSS detection tool | https://github.com/s0md3v/XSStrike |
+
+---
+
+## 🛠️ Exploitation Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Metasploit Framework** | Most used exploitation tool | https://github.com/rapid7/metasploit-framework |
+| **SQLmap** | Automated SQL injection | https://github.com/sqlmapproject/sqlmap |
+| **Commix** | Automated command injection | https://github.com/commixproject/commix |
+| **BeEF** | Browser exploitation framework | https://github.com/beefproject/beef |
+
+---
+
+## 🎯 Privilege Escalation
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **WinPEAS / LinPEAS** | Windows/Linux privilege enum | https://github.com/carlospolop/PEASS-ng |
+| **Watson** | Windows privilege escalation | https://github.com/rasta-mouse/Watson |
+| **Linux Exploit Suggester** | Suggests Linux exploits | https://github.com/mzet-/linux-exploit-suggester |
+
+---
+
+## 🧰 Post-Exploitation Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Empire** | PowerShell post-exploitation agent | https://github.com/BC-SECURITY/Empire |
+| **Pupy** | Remote Access Tool in Python | https://github.com/n1nj4sec/pupy |
+| **Sliver** | C2 framework by BishopFox | https://github.com/BishopFox/sliver |
+
+---
+
+## 👁️ Information Gathering (OSINT)
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Photon** | Web crawler for OSINT | https://github.com/s0md3v/Photon |
+| **Sherlock** | Social media username checker | https://github.com/sherlock-project/sherlock |
+| **Email2phonenumber** | Try to find number from email | https://github.com/martinvigo/email2phonenumber |
+| **Maltego CE** | Visual OSINT tool | https://www.maltego.com/ (not GitHub) |
+
+---
+
+## 🔐 Wireless & Network Tools
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Aircrack-ng** | WiFi cracking | https://github.com/aircrack-ng/aircrack-ng |
+| **Bettercap** | MITM framework | https://github.com/bettercap/bettercap |
+| **Wireshark** | Packet analysis (GUI) | https://github.com/wireshark/wireshark |
+
+---
+
+## 🔓 Password Attacks
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Hashcat** | GPU password cracker | https://github.com/hashcat/hashcat |
+| **JohnTheRipper** | Classic password cracker | https://github.com/openwall/john |
+| **Hydra** | Network brute-force | https://github.com/vanhauser-thc/thc-hydra |
+
+---
+
+## 🎮 Game Hacking Tools (Educational)
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Cheat Engine** | Memory scanner & editor | https://github.com/cheat-engine/cheat-engine |
+| **Aimbot Template** | C++ / Python sample bots | Search "aimbot memory hack" |
+| **ReadWriteMemory** | Python library for memory editing | https://github.com/learn-more/python-ptrace |
+
+---
+
+## 📦 Payload Collections
+
+| Name | Description | GitHub |
+|------|-------------|--------|
+| **PayloadsAllTheThings** | Big list of payloads | https://github.com/swisskyrepo/PayloadsAllTheThings |
+| **FuzzySecurity** | Exploit development blog/tools | https://github.com/FuzzySecurity |
+| **Red Team Attack Simulation** | Red team scripts | https://github.com/AlexisAhmed/Red-Teaming-Toolkit |
+
+---
+
+## 💬 Discord / Web Control
+
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| **Discord RATs (educational only)** | Remote access via Discord | Search: `discord remote tool` |
+| **Webhook-based Logger** | Python webhook loggers | Search: `discord webhook python logger` |
+
+---
+
+## 📚 Learning Platforms
+
+| Platform | Link |
+|----------|------|
+| HackTheBox | https://hackthebox.com |
+| TryHackMe | https://tryhackme.com |
+| PortSwigger Web Academy | https://portswigger.net/web-security |
+| OverTheWire | https://overthewire.org/wargames/ |
+| CTFTime | https://ctftime.org |
+
+---
+
+> ⚠️ All tools are for **educational and ethical** hacking only.  
+> Run inside **VirtualBox/Kali Linux** for safety.  
+> Do **not use** against any system without **permission**.
+
+---
+
